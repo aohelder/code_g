@@ -18,7 +18,8 @@ quando informado o valor 1 (um) para esse parâmetro, a function fará o cálcul
   - PRODUTOS;
   - ITENS_PEDIDO.
 
-Para outro valor numérico o valor do total do pedido será obtido através da coluna TOTAL_PEDIDO tabela PEDIDOS.
+Para outro valor numérico, o valor do total do pedido será obtido através da coluna TOTAL_PEDIDO da tabela
+PEDIDOS.
 
 Atenciosamente,
 
