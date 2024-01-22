@@ -1,4 +1,4 @@
-Atenção na utilização das TRIGGER:
+Atenção na utilização das TRIGGERS:
   - TRG_ITENS_PEDIDO_ATUALIZA_PEDIDO;
   - TRG_ITENS_PEDIDO_SOMA_PEDIDO.
 
