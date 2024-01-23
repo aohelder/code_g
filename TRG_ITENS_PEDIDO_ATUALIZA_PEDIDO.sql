@@ -17,8 +17,8 @@ BEGIN
     /*
     ||===========================================================================================||
     || SISTEMA    : Desafio CODE-G                                                               ||
-    || Objetivo   : Trigger para atualizar o total do pedido na inclusão e na exclusão de um     ||
-    ||              item do pedido                                                               ||
+    || Objetivo   : Trigger para atualizar o total do pedido na inclusão/alteração e na exclusão ||
+    ||              de um item do pedido                                                         ||
     ||                                                                                           ||
     || HISTÓRICO DE ALTERAÇÕES                                                                   ||
     || VERSÃO      DATA     AUTOR             DESCRIÇÃO DA ALTERAÇÃO                             ||
